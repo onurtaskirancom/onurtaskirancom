@@ -1,10 +1,10 @@
 Hi 👋 My name is Onur Taşkıran
 ==============================
 
-Web Developer
+Senior Web Developer
 -------------
 
-I'm a web developer
+I'm a Senior Web Developer
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [MyBlog](http://onurtaskiran.com)

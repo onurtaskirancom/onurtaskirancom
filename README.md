@@ -1,17 +1,20 @@
 Hi 👋 My name is Onur Taşkıran
 ==============================
 
-Senior Web Developer
+Web Developer
 -------------
 
-I'm a Senior Web Developer
+I'm a web developer
 
-* 🌍  I'm based in Istanbul
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  and I'm a Batman. Good luck everyone.
+* 🌍  I'm based in Istanbul
+* 🖥️  See my portfolio at [MyBlog](http://onurtaskiran.com)
+* ✉️  You can contact me at [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Projects
+* ⚡  and I'm a Batman. Good luck everyone.
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,6 +45,7 @@ I'm a Senior Web Developer
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/onurtaskirancom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/onurtskrncom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/onur-taşkıran-3b906825b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/onurtskrncom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -50,13 +54,13 @@ I'm a Senior Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-stats.vercel.app/api?username=onurtaskirancom&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="onurtaskirancom's GitHub stats" /></a>
+<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-stats.vercel.app/api?username=onurtaskirancom&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="onurtaskirancom's GitHub stats" /></a>
 
-<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onurtaskirancom&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onurtaskirancom&stroke=64748b&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=onurtaskirancom&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/onurtaskirancom"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=onurtaskirancom&bg_color=22272e&color=64748b&line=3382ed&point=64748b&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/onurtaskirancom" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurtaskirancom&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/onurtaskirancom" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurtaskirancom&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 

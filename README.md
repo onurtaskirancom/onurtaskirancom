@@ -11,7 +11,7 @@ I'm a web developer
 * ✉️  You can contact me at [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
-* ⚡  and I'm a Batman. Good luck everyone...
+* ⚡  and I'm a Batman. Good luck everyone
 
 ### Skills
 

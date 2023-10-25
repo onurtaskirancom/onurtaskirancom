@@ -1,4 +1,5 @@
-<a href="https://www.onurtaskiran.com"><img src="https://github.com/onurtaskirancom/MovieReview/assets/69279985/ec239a5a-435c-4a43-985e-ad3f12937e49" width="" /></a>
+<a href="https://www.onurtaskiran.com"><img src="https://github.com/onurtaskirancom/MovieReview/assets/69279985/3e631fc5-bd31-4d8a-ab4c-b1ed636ff36b" width="" /></a>
+
 Hi 👋 My name is Onur Taşkıran
 ==============================
 

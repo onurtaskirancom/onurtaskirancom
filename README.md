@@ -7,12 +7,12 @@ Web Developer
 
 I'm a web developer
 
-* 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [MyBlog](http://onurtaskiran.com)
-* ✉️  You can contact me at [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  and I'm a Batman. Good luck everyone.
+* 🌍  **Location:** Istanbul  
+* 🖥️  **Portfolio:** [Visit My Blog](http://onurtaskiran.com)
+* ✉️  **Contact Me:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)
+* 🧠 **Currently Learning:** React  
+* 🤝 **Looking to Collaborate:** On exciting projects 
+* 🤝 **Looking to Collaborate:** On exciting projects 
 
 ### Skills
 

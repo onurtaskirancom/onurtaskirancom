@@ -12,7 +12,7 @@ I'm a web developer
 * ✉️  **Contact Me:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)
 * 🧠 **Currently Learning:** React  
 * 🤝 **Looking to Collaborate:** On exciting projects 
-* ⚡ **Fun Fact:** I'm Batman. Good luck everyone! 🦇
+* ⚡ **Fun Fact:** I'm a Batman. Good luck everyone! 🦇
 
 ### Skills
 

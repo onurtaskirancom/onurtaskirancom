@@ -13,7 +13,7 @@ I'm a web developer
 * 🧠  **Currently Learning:** React  
 * 🤝  **Looking to Collaborate:** On exciting projects  
 * ⚡  **Fun Fact:** By day, I’m a developer. By night, I’m Batman. 🦇 
-* 🎯  Good luck, everyone
+* 🎯  Good luck, everyone.
 ---
 
 ### Skills  

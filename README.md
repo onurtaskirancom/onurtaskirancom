@@ -8,7 +8,7 @@ Hi 👋 My name is Onur Taşkıran
 I'm a web developer  
 
 * 🌍  **Location:** Istanbul  
-* 🖥️  **Portfolio:** [Visit My Blog](http://onurtaskiran.com)  
+* 🖥️ Projects & thoughts: [Visit My Blog](http://onurtaskiran.com)
 * ✉️  **Contact Me:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)  
 * 🧠  **Currently diving into:** React Native
 * 🤝  **Looking to Collaborate:** On exciting projects  

@@ -11,7 +11,7 @@ I'm a web developer
 * 🖥️ Projects & thoughts: [Visit My Blog](http://onurtaskiran.com)
 * 📬  **Let's connect:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)  
 * 🧠  **Currently diving into:** React Native
-* 🤝  **Looking to Collaborate:** On exciting projects  
+* 🤝  **Open to:** Exciting collaborations  
 * ⚡  **Fun Fact:** By day, I’m a developer. By night, I’m Batman. 🦇 
 * 🎯  Good luck, everyone.
 ---

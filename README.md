@@ -13,7 +13,7 @@ I'm a web developer
 * 🧠  **Currently diving into:** React Native
 * 🤝  **Open to:** Exciting collaborations  
 * ⚡  **Fun fact:** Developer by day, Batman by night. 🦇 
-* 🎯  Good luck everyone.
+* 🎯  Good luck, everyone.
 ---
 
 ### Skills  

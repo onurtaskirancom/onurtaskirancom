@@ -12,7 +12,7 @@ I'm a web developer
 * 📬  **Let's connect:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)  
 * 🧠  **Currently diving into:** React Native
 * 🤝  **Open to:** Exciting collaborations  
-* ⚡  **Fun fact:** Developer by day, Batman by night. 
+* ⚡  **Fun fact:** Developer by day, Batman by night 
 * 🎯  Good luck, everyone.
 ---
 

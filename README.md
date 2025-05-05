@@ -14,7 +14,7 @@ Hi 👋 My name is Onur Taşkıran
 - 📱 **Exploring:** React Native — applying the same clarity in mobile development  
 - 📓 **Writing:** I don’t just share _what_ I build — I focus on _why_ I build it  
 - 🤝 **Collaboration:** Open to projects grounded in thought and technical clarity  
-- 📬 **Contact:** onur@gmail.com
+- 📬 **Contact:** onurtaskirancom@gmail.com
 
 ---
 

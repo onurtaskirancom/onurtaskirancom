@@ -5,15 +5,26 @@
 Hi 👋 My name is Onur Taşkıran  
 ==============================  
 
-I'm a web developer  
+**Web Developer | Structured Thinker, Minimalist Builder**
 
-* 🌍  **Location:** Istanbul  
-* 🖥️ Projects & thoughts: [Visit My Blog](http://onurtaskiran.com)
-* 📬  **Let's connect:** [onurtaskirancom@gmail.com](mailto:onurtaskirancom@gmail.com)  
-* 🧠  **Currently diving into:** React Native
-* 🤝  **Open to:** Exciting collaborations
-* ⚡  **Fun fact:** Developer by day, Batman by night
-* 🎯  Good luck, everyone
+> **“Any solution not guided by reason is no solution at all.”**
+
+- 📍 **Location:** Istanbul  
+- 🛠️ **Focus:** Web development — JavaScript, React, Node.js
+- 📱 **Exploring:** React Native — applying the same clarity in mobile development  
+- 📓 **Writing:** I don’t just share _what_ I build — I focus on _why_ I build it  
+- 🤝 **Collaboration:** Open to projects grounded in thought and technical clarity  
+- 📬 **Contact:** onur@gmail.com
+
+---
+
+> _Code is a form of thought._  
+> _Today, being a developer means not just writing code, but **orchestrating thought.**_
+
+---
+
+### 🧩 Note  
+> _Some lines I write are for machines. Others are for those who think._
 ---
 
 ### Skills  

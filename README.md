@@ -5,7 +5,7 @@
 Hi 👋 My name is Onur Taşkıran  
 ==============================  
 
-**Web Developer | Structured Thinker, Minimalist Builder**
+**Web Developer**
 
 > **“Any solution not guided by reason is no solution at all.”**
 

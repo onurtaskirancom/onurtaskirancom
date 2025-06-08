@@ -7,7 +7,6 @@ Hi 👋 My name is Onur Taşkıran
 
 **Web Developer**
 
-> **“Any solution not guided by reason is no solution at all.”**
 
 - 📍 **Location:** Istanbul  
 - 🛠️ **Focus:** Web development - JavaScript (React, Node.js)
@@ -21,10 +20,6 @@ Hi 👋 My name is Onur Taşkıran
 > _Code is a form of thought._  
 > _Today, being a developer means not just writing code, but **orchestrating thought.**_
 
----
-
-### 🧠 Reflection
-> _Some lines I write are for machines. Others are for those who think._
 ---
 
 ### Skills  

@@ -14,12 +14,6 @@ Hi 👋 My name is Onur Taşkıran
 - 📓 **Writing:** I don’t just share _what_ I build - I focus on _why_ I build it  
 - 🤝 **Collaboration:** Open to projects grounded in thought and technical clarity  
 - 📬 **Contact:** onurtaskirancom@gmail.com
-
----
-
-> _Code is a form of thought._  
-> _Today, being a developer means not just writing code, but **orchestrating thought.**_
-
 ---
 
 ### Skills  

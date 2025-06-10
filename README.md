@@ -5,8 +5,6 @@
 Hi 👋 My name is Onur Taşkıran  
 ==============================  
 
-**Web Developer**
-
 
 - 📍 **Location:** Istanbul  
 - 🛠️ **Focus:** Web development - JavaScript (React, Node.js)

@@ -6,7 +6,6 @@ Hi 👋 My name is Onur Taşkıran
 ==============================  
 
 
-- 📍 **Location:** Istanbul  
 - 🛠️ **Focus:** Web development - JavaScript (React, Node.js)
 - 📱 **Exploring:** React Native - applying the same clarity in mobile development
 - 📓 **Writing:** I don’t just share _what_ I build - I focus on _why_ I build it

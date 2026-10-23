@@ -3,7 +3,6 @@
 </a>
 
 
-==============================  
 
 
 - 🛠️ **Focus:** Web development - JavaScript (React, Node.js)

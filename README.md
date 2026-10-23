@@ -2,7 +2,7 @@
   <img src="https://github.com/onurtaskirancom/MovieReview/assets/69279985/3e631fc5-bd31-4d8a-ab4c-b1ed636ff36b" />
 </a>
 
-Hi 👋 My name is Onur Taşkıran  
+
 ==============================  
 
 
